@@ -31,6 +31,8 @@ p {
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .navbar {
